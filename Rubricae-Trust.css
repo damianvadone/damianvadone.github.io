@@ -8,7 +8,7 @@
     min-height: 30px;
   }
 } .u-section-2 {
-  min-height: 50vh;
+  min-height: 100vh;
 }
 
 .u-section-2 .u-image-1 {
@@ -81,7 +81,6 @@
   .u-section-2 .u-group-1 {
     min-height: 238px;
     margin-top: 27px;
-    margin-bottom: 60px;
   }
 
   .u-section-2 .u-container-layout-1 {
