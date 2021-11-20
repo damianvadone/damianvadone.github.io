@@ -71,7 +71,7 @@
 
 @media (max-width: 575px) {
    .u-section-2 {
-    min-height: 470px;
+    min-height: 450px;
   }
 
   .u-section-2 .u-image-1 {
@@ -86,10 +86,6 @@
     min-height: 238px;
     margin-top: 27px;
     margin-bottom: -544px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-bottom: 20px;
   }
 } .u-section-3 {
   background-image: url("images/bg.png");
