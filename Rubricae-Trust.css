@@ -128,7 +128,8 @@
 
   .u-section-2 .u-group-2 {
     margin-top: 10px;
-    min-height: 140px;
+    margin-bottom: -274px;
+    min-height: 200px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -141,7 +142,8 @@
   }
 
   .u-section-2 .u-btn-2 {
-    font-size: 1rem;
+    font-size: 1.125rem;
+    font-weight: 700;
     padding: 0;
   }
 
