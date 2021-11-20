@@ -70,6 +70,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 50vw;
+  }
+
   .u-section-2 .u-image-1 {
     height: 193px;
     margin-top: 0;
