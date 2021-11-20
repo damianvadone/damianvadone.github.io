@@ -1468,7 +1468,6 @@
 
 .u-section-14 .u-text-2 {
   font-weight: 400;
-  font-size: 1.75rem;
   margin: 18px auto 0;
 }
 
@@ -1509,12 +1508,14 @@
 
   .u-section-14 .u-text-2 {
     width: auto;
+    font-size: 1.75rem;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-14 .u-btn-1 {
-    margin-bottom: 66px;
+    margin-top: 35px;
+    margin-bottom: 60px;
   }
 }.u-section-15 .u-sheet-1 {
   min-height: 445px;
@@ -1540,6 +1541,8 @@
   .u-section-15 .u-image-1 {
     width: 340px;
     height: 91px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-15 .u-image-2 {
