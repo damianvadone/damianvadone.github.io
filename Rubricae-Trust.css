@@ -123,8 +123,8 @@
 
   .u-section-2 .u-group-1 {
     min-height: 56px;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 532px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -136,7 +136,7 @@
 
   .u-section-2 .u-btn-2 {
     border-style: none;
-    margin-top: 4px;
+    margin-top: 12px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -144,7 +144,7 @@
   .u-section-2 .u-icon-2 {
     width: 20px;
     height: 20px;
-    margin-top: -1px;
+    margin-top: -22px;
   }
 } .u-section-3 {
   background-image: url("images/bg.png");
