@@ -87,6 +87,10 @@
     margin-top: 27px;
     margin-bottom: 60px;
   }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 10px;
+  }
 } .u-section-3 {
   background-image: url("images/bg.png");
   background-position: 50% 50%;
