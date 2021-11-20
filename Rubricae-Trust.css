@@ -70,6 +70,10 @@
   margin-top: 0;
 }
 
+.u-section-2 .u-btn-2 {
+  background-image: none;
+}
+
 .u-section-2 .u-icon-2 {
   width: 64px;
   height: 64px;
@@ -132,15 +136,19 @@
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: 30px;
+    margin-top: 15px;
     margin-left: 39px;
     margin-right: 39px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    padding: 0;
   }
 
   .u-section-2 .u-icon-2 {
     width: 20px;
     height: 20px;
-    margin-top: 9px;
+    margin-top: 0;
   }
 } .u-section-3 {
   background-image: url("images/bg.png");
