@@ -529,7 +529,6 @@
 }
 
 .u-section-9 .u-text-1 {
-  font-weight: 700;
   margin: 0;
 }
 
@@ -560,6 +559,12 @@
 
 .u-section-9 .u-text-2 {
   margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-1 {
+    font-weight: normal;
+  }
 }
 
 @media (max-width: 991px) {
@@ -697,11 +702,6 @@
   font-weight: 400;
   margin-bottom: 0;
   margin-top: 0;
-}
-
-.u-section-12 .u-btn-1 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-12 .u-accordion-item-3 {
@@ -1025,7 +1025,7 @@
   margin-top: 0;
 }
 
-.u-section-12 .u-btn-2 {
+.u-section-12 .u-btn-1 {
   background-image: none;
   padding: 0;
 }
@@ -1254,7 +1254,7 @@
   margin-top: 0;
 }
 
-.u-section-12 .u-btn-3 {
+.u-section-12 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
