@@ -75,7 +75,7 @@
 }
 
 .u-section-2 .u-btn-2 {
-  background-image: none;
+  padding: 0;
 }
 
 .u-section-2 .u-icon-2 {
@@ -135,7 +135,7 @@
   .u-section-2 .u-group-2 {
     margin-top: 791px;
     margin-bottom: 0;
-    min-height: 94px;
+    min-height: 93px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -144,13 +144,9 @@
   .u-section-2 .u-text-2 {
     font-size: 1.25rem;
     width: auto;
-    margin-top: 15px;
-    margin-right: 43px;
-    margin-left: 26px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    padding: 0;
+    margin-top: 14px;
+    margin-right: 40px;
+    margin-left: 0;
   }
 } .u-section-3 {
   background-image: url("images/bg1.jpg");
