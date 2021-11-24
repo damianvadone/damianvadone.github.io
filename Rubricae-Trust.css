@@ -501,6 +501,10 @@
   .u-section-6 .u-text-7 {
     font-size: 1.375rem;
   }
+
+  .u-section-6 .u-text-8 {
+    font-size: 1.375rem;
+  }
 }.u-section-7 .u-sheet-1 {
   min-height: 98px;
 }
@@ -1451,6 +1455,10 @@
 @media (max-width: 575px) {
   .u-section-12 .u-accordion-1 {
     width: 340px;
+  }
+
+  .u-section-12 .u-text-1 {
+    font-size: 1.375rem;
   }
 } .u-section-13 {
   background-image: none;
