@@ -95,6 +95,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-group-1 {
+    min-height: 666px;
     margin-top: 0;
   }
 
@@ -120,16 +121,21 @@
 
   .u-section-2 .u-line-2 {
     width: 300px;
+    margin-top: 0;
     margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1rem;
+    width: auto;
+    margin-top: 15px;
+    margin-right: 0;
   }
 
   .u-section-2 .u-line-3 {
     width: 300px;
     margin-left: auto;
+    margin-top: 0;
   }
 } .u-section-3 {
   background-image: url("images/bg1.jpg");
