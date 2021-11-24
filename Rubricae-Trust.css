@@ -99,10 +99,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
-    min-height: 861px;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 186px;
     background-position: 50% 50%;
@@ -114,9 +110,8 @@
   }
 
   .u-section-2 .u-group-2 {
-    min-height: 324px;
-    margin-top: -20px;
-    margin-bottom: 60px;
+    min-height: 286px;
+    margin-top: 0;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -124,7 +119,10 @@
   }
 
   .u-section-2 .u-image-2 {
-    margin-top: 33px;
+    width: 339px;
+    margin-top: 17px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-2 .u-text-1 {
