@@ -137,7 +137,7 @@
   /*  margin-top: 363px;*/
     margin-bottom: 0;
     min-height: 100px;
-    width: calc(((100% - 340px) / 2) + 390px);
+    width: 100%;
     margin-left: initial;
     margin-right: initial;
   }
