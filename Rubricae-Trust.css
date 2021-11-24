@@ -104,15 +104,15 @@
     background-position: 50% 50%;
     margin-top: 0;
     margin-bottom: 0;
-    width: calc(((100% - 340px) / 2) + 390px);
-    margin-left: initial;
     margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-group-2 {
     min-height: 310px;
     margin-top: 0;
-    margin-bottom: -446px;
+    margin-bottom: 60px;
   }
 
   .u-section-2 .u-container-layout-2 {
