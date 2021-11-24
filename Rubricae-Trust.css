@@ -180,6 +180,11 @@
     min-height: 106px;
   }
 
+  .u-section-2 .u-container-layout-3 {
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
+
   .u-section-2 .u-btn-2 {
     border-style: none;
     margin-left: auto;
