@@ -95,10 +95,11 @@
   }
 
   .u-section-2 .u-image-1 {
+    height: 241px;
+    width: 440px;
     margin-top: 0;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-2 .u-image-2 {
