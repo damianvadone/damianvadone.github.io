@@ -151,6 +151,11 @@
     min-height: 288px;
   }
 
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-2 .u-image-2 {
     width: 400px;
   }
