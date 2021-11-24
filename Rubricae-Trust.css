@@ -125,9 +125,10 @@
 
   .u-section-2 .u-btn-2 {
     border-style: solid;
+    font-size: 0.875rem;
     font-weight: normal;
     margin-top: 12px;
-    margin-right: 0;
+    margin-left: auto;
     padding: 10px 3px 10px 1px;
   }
 
