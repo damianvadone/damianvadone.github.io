@@ -100,23 +100,23 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-image-1 {
-    min-height: 186px;
+    min-height: 240px;
     background-position: 50% 50%;
     margin-top: 0;
     margin-bottom: 0;
-    margin-right: initial;
+    width: calc(((100% - 340px) / 2) + 390px);
     margin-left: initial;
-    width: auto;
+    margin-right: initial;
   }
 
   .u-section-2 .u-group-2 {
-    min-height: 286px;
+    min-height: 310px;
     margin-top: 0;
-
+    margin-bottom: -446px;
   }
 
   .u-section-2 .u-container-layout-2 {
-    padding: 0;
+    padding: 0 0 24px;
   }
 
   .u-section-2 .u-image-2 {
