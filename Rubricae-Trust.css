@@ -393,6 +393,38 @@
   color: rgb(0, 0, 0) !important;
 }
 
+.u-section-6 .u-list-icon-2 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-3 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-4 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-5 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-6 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-7 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-8 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-list-icon-9 {
+  color: rgb(17, 17, 17) !important;
+}
+
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
     min-height: 421px;
@@ -502,8 +534,8 @@
     font-size: 1.375rem;
   }
 
-  .u-section-6 .u-text-8 {
-    font-size: 1.375rem;
+  .u-section-6 .u-list-icon-1 {
+    color: rgb(17, 17, 17) !important;
   }
 }.u-section-7 .u-sheet-1 {
   min-height: 98px;
