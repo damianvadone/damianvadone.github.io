@@ -132,8 +132,7 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    width: 440px;
-    margin: 0;
+    margin-top: 0;
   }
 
   .u-section-2 .u-image-1 {
@@ -146,7 +145,7 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 273px;
+    min-height: 298px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -187,7 +186,7 @@
   }
 
   .u-section-2 .u-layout-cell-3 {
-    min-height: 70px;
+    min-height: 71px;
   }
 
   .u-section-2 .u-container-layout-3 {
