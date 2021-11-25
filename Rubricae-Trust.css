@@ -1624,14 +1624,13 @@
 
 @media (max-width: 575px) {
   .u-section-14 .u-sheet-1 {
-    min-height: 100vh;
+    min-height: 800px;
   }
 
   .u-section-14 .u-group-1 {
     min-height: 280px;
-    margin-top: 361px;
+    margin-top: 260px;
     margin-right: 0;
-    margin-bottom: 60px;
   }
 
   .u-section-14 .u-btn-1 {
