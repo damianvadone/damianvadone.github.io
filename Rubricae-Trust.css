@@ -103,6 +103,7 @@
 @media (max-width: 991px) {
    .u-section-2 {
     min-height: 809px;
+    
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -195,7 +196,6 @@
     margin-right: auto;
   }
 } .u-section-3 {
-  min-height: 80vh;
   background-image: url("images/bg1.jpg");
   background-position: 50% 50%;
 }
@@ -1571,9 +1571,9 @@
 }
 
 .u-section-13 .u-icon-1 {
-  font-size: 0.7em;
   vertical-align: 0px;
   margin-left: 8px;
+  font-size: 1rem;
 }
 
 @media (max-width: 1199px) {
