@@ -133,6 +133,7 @@
 
   .u-section-2 .u-layout-wrap-1 {
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   .u-section-2 .u-image-1 {
@@ -158,9 +159,11 @@
   }
 
   .u-section-2 .u-image-3 {
-    width: 352px;
     height: 105px;
     margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-image-4 {
