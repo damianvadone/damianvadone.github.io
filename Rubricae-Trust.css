@@ -198,12 +198,13 @@
     margin-right: auto;
   }
 } .u-section-3 {
+  min-height: 80vh;
   background-image: url("images/bg1.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 537px;
+  min-height: 83vh;
 }
 
 .u-section-3 .u-image-1 {
