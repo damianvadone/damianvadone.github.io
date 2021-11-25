@@ -136,7 +136,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 200px;
+    min-height: 40vh;
     background-position: 50% 50%;
   }
 
@@ -145,7 +145,7 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 298px;
+    min-height: 45vh;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -186,7 +186,7 @@
   }
 
   .u-section-2 .u-layout-cell-3 {
-    min-height: 71px;
+    min-height: 5vh;
   }
 
   .u-section-2 .u-container-layout-3 {
